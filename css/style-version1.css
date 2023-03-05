@@ -135,6 +135,7 @@ h3{
 .programmer{
     float: left;
     font-size: 0.9rem;
+  color:#fff;
 }
 .alink{
     text-decoration: none;
