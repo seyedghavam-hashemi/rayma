@@ -1,0 +1,1022 @@
+
+@import url('https://v1.fontapi.ir/css/Vazir');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+
+.vidsection{
+    position: static;
+    width:50%;
+    height:40vh;
+     justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 1vh;
+    margin-right: 25%;
+
+}
+
+
+#raymavid{
+    position:relative;
+    width: 50%;
+    height:38vh;
+    text-align: center;
+    
+   
+    
+    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 1%;
+  align-items: center;
+
+  
+}
+
+.scene {
+   /* border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+   vertical-align: middle;
+  padding-top: 5px;
+}
+
+
+
+.bnest{
+    padding: 12px 28px;
+}
+
+
+
+
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+      color: #fff;
+    font-size: 1rem;
+     margin: auto;
+    
+    
+}
+
+
+
+
+
+/*
+.imgcard{
+    position: relative;
+    width: 90%;
+  height: 38vh;
+}*/
+
+
+
+
+
+ .cardad1{
+    
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1.5rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1.5rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+
+
+.programmer{
+    float: left;
+    font-size: 1.2rem;
+    color: #fff;
+    margin-left: 5%;
+}
+
+.alink{
+    text-decoration: none;
+    color:rgb(255,160,122);
+    z-index: 3;
+}
+
+
+/*MEDIA*/
+
+@media only screen and (max-width: 1280px){
+ 
+    
+.vidsection{
+    position: static;
+    width:60%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-left: 40px;
+}
+#raymavid{
+    position:relative;
+    width: 50%;
+    height:38vh;
+    text-align: center; 
+    
+    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  margin-bottom: 10px;
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 16px 36px;
+}   
+.b1{font-size: 1rem;}
+.b2{font-size: 1rem;}
+.b3{font-size: 1rem;}    
+
+
+    }
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+    
+    
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;}  
+
+}
+
+@media only screen and (max-width: 1024px){
+    
+    
+.vidsection{
+    position: static;
+    width:60%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-left: 40px;
+}
+#raymavid{
+    position:relative;
+    width: 50%;
+    height:38vh;
+    text-align: center;    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  margin-bottom: 10px;
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 16px 36px;
+}   
+.b1{font-size: 1rem;}
+.b2{font-size: 1rem;}
+.b3{font-size: 1rem;}    
+
+
+    }
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+    
+    
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;}  
+}
+    
+
+
+
+
+
+@media only screen and (max-width: 912px){
+ 
+    
+.vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 75%;
+    height:38vh;
+    text-align: center;    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 16px 36px;
+}   
+.b1{font-size: 1rem;}
+.b2{font-size: 1rem;}
+.b3{font-size: 1rem;}    
+
+
+    }
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+    
+    
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;} 
+.programmer{
+    float: left;
+    font-size: 0.9rem;
+}
+}
+
+@media only screen and (max-width: 820px){
+    
+    
+.vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 75%;
+    height:38vh;
+    text-align: center;    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 16px 36px;
+}   
+.b1{font-size: 1rem;}
+.b2{font-size: 1rem;}
+.b3{font-size: 1rem;}    
+
+
+    }
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+    
+    
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;}    
+    
+}
+
+
+
+@media only screen and (max-width: 768px){
+ 
+    
+    
+    
+ 
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 540px){
+ .vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 100%;
+    height:100%;
+    text-align: center;   
+    
+}
+  .bnest{
+    padding: 6px 14px;
+}   
+.b1{font-size: 1.2rem;}
+.b2{font-size: 1.2rem;}
+.b3{font-size: 1.2rem;}     
+ .cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}   
+    
+    
+    
+    
+    
+ 
+}
+
+
+@media only screen and (max-width: 420px){
+.vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 90%;
+    height:90%;
+    text-align: center;   
+    
+}
+.p2dr{  
+  height: 12vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 6px 14px;
+}   
+.b1{font-size: 1.5rem;}
+.b2{font-size: 1.5rem;}
+.b3{font-size: 1.5rem;}    
+    
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 1rem;}  
+}
+    
+ .programmer{
+    float: left;
+    font-size: 0.8rem;
+    margin-left: 5%;
+}   
+    
+    
+    
+    
+    
+}
+/*
+@media only screen and (max-width: 400px){
+
+}*/
+
+@media only screen and (max-width: 375px){
+.vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 90%;
+    height:90%;
+    text-align: center;   
+    margin: 0;
+    padding: 0;
+}
+.p2dr{  
+  height: 16vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  top:-10px;
+    position: relative;
+
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 10vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 0px;
+    margin-bottom: 7%;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 2px 6px;
+}   
+.b1{font-size: 0.5rem;}
+.b2{font-size: 0.5rem;}
+.b3{font-size: 0.5rem;}    
+    
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top:2%;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 2%;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;}  
+}
+
+.programmer{
+    float: left;
+    font-size: 0.8rem;
+    margin-left: 5%;
+}
+
+    
+}
+/*
+
+@media only screen and (max-width: 393px){
+.b1{font-size: 2rem; font-weight: bold;}
+
+
+}*/
+
+
+@media only screen and (max-width: 360px){
+  .cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}  
+    
+.programmer{
+    float: left;
+    font-size: 0.6rem;
+}
+
+}
+
+@media only screen and (max-width: 320px){
+   
+}
+
+@media only screen and (max-width: 280px){
+    
+.vidsection{
+    position: static;
+    width:100%;
+    height:40vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 0vh;
+    margin-right: 0;
+}
+#raymavid{
+    position:relative;
+    width: 75%;
+    height:38vh;
+    text-align: center;    
+}
+
+.p2dr{  
+  height: 10vh;  
+  /*border:rgba(249, 105, 14, 1) 2px solid;*/
+  width:100%;
+  padding: 0;
+  align-items: center; 
+  
+}
+.scene {
+  /*border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);*/
+  width: 100%;
+  height: 8vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding-top: 5px;
+}
+button {
+  /*font-family: system-ui, sans-serif;*/
+  /*font-weight: bold;*/  
+  cursor: pointer;
+  border: none;
+  /*margin: .1em;*/ 
+}   
+.bnest{
+    padding: 2px 4px;
+}   
+.b1{font-size: 1rem;}
+.b2{font-size: 1rem;}
+.b3{font-size: 1rem;}    
+
+
+    }
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+    color: #fff;
+    font-size: 1rem;
+    margin: auto;  
+}
+    
+    
+.cardad1{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+}
+.cardad2{
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 3px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1rem;
+    padding: 2vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/    
+}
+.cardadp{
+    padding: 0;
+    margin: 0;
+}
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0;
+}
+.emclass{font-size: 0.8rem;}    
+.programmer{
+    float: left;
+    font-size: 0.6rem;
+    
+}
+    
+}
+
+
+
+
+
+
+
