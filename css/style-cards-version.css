@@ -138,6 +138,11 @@
     font-size: 1rem;
     padding: 0;
 }
+ .programmer{
+    float: left;
+    font-size: 0.9rem;
+  color:#fff;
+}
 
 
 /*MEDIA*/
